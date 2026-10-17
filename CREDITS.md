@@ -4,6 +4,12 @@ Minden kép a Wikimedia Commonsról, szabad licenccel (forrásmegjelöléssel).
 
 | Fájl | Cím | Szerző | Licenc | Forrás |
 |---|---|---|---|---|
+| bolt.jpg | File:Budapest, I. Battyhány Square Shopping Center, Markovits Iván Street front and the Hungarian Parliament Building.jpg | Dezidor | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Budapest,_I._Battyh%C3%A1ny_Square_Shopping_Center,_Markovits_Iv%C3%A1n_Street_front_and_the_Hungarian_Parliament_Building.jpg |
+| zoldseg.jpg | File:Country fair, vegetable stall, Martirok Square, 2016 Bonyhad.jpg | Globetrotter19 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Country_fair,_vegetable_stall,_Martirok_Square,_2016_Bonyhad.jpg |
+| iroda.jpg | File:Dentistry, located in a modern office building. Mirror effect. - Budapest District 11. Tétényi Rd., 107.JPG | Globetrotter19 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dentistry,_located_in_a_modern_office_building._Mirror_effect._-_Budapest_District_11._T%C3%A9t%C3%A9nyi_Rd.,_107.JPG |
+| cafe.jpg | File:New York Kávéház. 1894 körül - Budapest, Fortepan 82586.jpg | FOTO:Fortepan — ID 82586: Adományozó/Donor: Budapest Főváros Levéltára. | Public domain | https://commons.wikimedia.org/wiki/File:New_York_K%C3%A1v%C3%A9h%C3%A1z._1894_k%C3%B6r%C3%BCl_-_Budapest,_Fortepan_82586.jpg |
+| sorgyar.jpg | File:Harmos pastry shop and Albanian bakery in Széchenyi Street, Eger, 2016 Hungary.jpg | Globetrotter19 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Harmos_pastry_shop_and_Albanian_bakery_in_Sz%C3%A9chenyi_Street,_Eger,_2016_Hungary.jpg |
+| westend.jpg | File:Budapest, Flórián Üzletközpont, 2.jpg | Random photos 1989 | CC0 | https://commons.wikimedia.org/wiki/File:Budapest,_Fl%C3%B3ri%C3%A1n_%C3%9Czletk%C3%B6zpont,_2.jpg |
 | eger.jpg | File:Panorama of Eger from the Castle 02.jpg | Armagan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Panorama_of_Eger_from_the_Castle_02.jpg |
 | tokaj.jpg | File:Tokaj, Hungary 03944.JPG | Kressl | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Tokaj,_Hungary_03944.JPG |
 | hortobagy.jpg | File:Nine-arched bridge 2024 2.jpg | VargaA | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nine-arched_bridge_2024_2.jpg |
@@ -26,7 +32,7 @@ Minden kép a Wikimedia Commonsról, szabad licenccel (forrásmegjelöléssel).
 | balaton.jpg | File:Lake Balaton region WV banner.jpg | Peter Stehlik PS-2507 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Lake_Balaton_region_WV_banner.jpg |
 | market.jpg | File:Pécs, Széchenyi tér 2022 02.jpg | Pasztilla aka Attila Terbócs | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:P%C3%A9cs,_Sz%C3%A9chenyi_t%C3%A9r_2022_02.jpg |
 | tram.jpg | File:14-05-06-Tram-Budapest-Keleti-pályaudvar-RalfR.jpg | Ralf Roletschek | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:14-05-06-Tram-Budapest-Keleti-p%C3%A1lyaudvar-RalfR.jpg |
-| people.jpg | File:Orosz Kulturális Központ épülete. - Budapest, Andrássy út 120.jpg | Vadaro | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Orosz_Kultur%C3%A1lis_K%C3%B6zpont_%C3%A9p%C3%BClete._-_Budapest,_Andr%C3%A1ssy_%C3%BAt_120.jpg |
+| people.jpg | File:Budapest, Andrássy út, 3.jpg | Random photos 1989 | CC0 | https://commons.wikimedia.org/wiki/File:Budapest,_Andr%C3%A1ssy_%C3%BAt,_3.jpg |
 | szeged.jpg | File:Dom ter 12 in Szeged (1).jpg | Tournasol7 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Dom_ter_12_in_Szeged_(1).jpg |
 
 Térkép: hu.geojson — codeforgermany/click_that_hood (OpenStreetMap-alapú, ODbL), egyszerűsítve.

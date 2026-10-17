@@ -20,7 +20,7 @@ function map(el,T){
   el.style.position='relative';
   const p=svg.selectAll('path').data(g.features).join('path').attr('d',pa).attr('stroke',T.stroke||'#0b1220').attr('stroke-width',1)
    .each(function(d){d.v=Math.round(R(10,95))}).attr('fill',d=>sc(d.v))
-   .on('mousemove',(e,d)=>{const b=el.getBoundingClientRect();tip.style('opacity',1).style('left',(e.clientX-b.left+10)+'px').style('top',(e.clientY-b.top)+'px').text(`${d.properties.name}: ${d.v}% egyetért (Mintaadat)`)}).on('mouseleave',()=>tip.style('opacity',0));
+   .on('mousemove',(e,d)=>{const b=el.getBoundingClientRect();tip.style('opacity',1).style('left',(e.clientX-b.left+10)+'px').style('top',(e.clientY-b.top)+'px').text(`${d.properties.name}: ${d.v}${T.mapLabel||"% egyetért"} (Mintaadat)`)}).on('mouseleave',()=>tip.style('opacity',0));
   svg.selectAll('text').data(g.features.filter(f=>f.properties.name.length<9)).join('text').attr('transform',d=>`translate(${pa.centroid(d)})`).attr('text-anchor','middle').attr('font-size',9).attr('fill',T.mapText||'#fff').attr('opacity',.8).text(d=>d.properties.name);
   setInterval(()=>p.each(d=>{d.v=Math.max(5,Math.min(98,d.v+Math.round(R(-12,12))))}).transition().duration(1400).attr('fill',d=>sc(d.v)),2600);
  });
